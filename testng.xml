@@ -1,0 +1,20 @@
+<suite name="Mantis_Results">
+
+<test name="Trail_Test">
+
+
+<classes>
+
+<class name="Mantis_Automaion.UI_Testing.BrowserTest"></class>
+
+</classes>
+
+
+
+
+</test>
+
+
+
+
+</suite>
